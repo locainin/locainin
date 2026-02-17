@@ -14,9 +14,17 @@
 </p>
 
 ## Missions and Goals
-- Building Practical Software With A Focus On Optimization. 
+<!--
+- Building Practical Software With A Focus On Optimization.
 - Focused on System-level Work, Automation, and Cyber Security
 - Prioritizing Performance, Maintainability, and Security
+-->
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/missions-goals-dark.png" />
+    <img src="./assets/missions-goals-light.png" alt="Missions and Goals list" width="1024" />
+  </picture>
+</p>
 
 ## Languages and Skills
 <!-- Tool icons use PNG for reliable GitHub rendering. -->
