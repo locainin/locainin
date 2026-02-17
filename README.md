@@ -1,6 +1,5 @@
-<p align="center">
-  <!-- Local hero banner image. -->
-  <img src="./assets/terminal-hero.svg" alt="locainin terminal header" width="100%" />
+<p align="center">  
+ <img src="./assets/terminal-hero.svg" alt="locainin terminal header" width="100%" />
 </p>
 
 <p align="center">
@@ -44,16 +43,4 @@
 ## Live Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=locainin&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=F85149&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E" alt="GitHub streak stats for locainin" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=locainin&theme=github_dark" alt="GitHub profile summary for locainin" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=locainin&theme=github-compact&hide_border=true" alt="GitHub activity graph for locainin" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=locainin&theme=github_dark" alt="General GitHub stats for locainin" />
 </p>
