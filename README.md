@@ -25,13 +25,15 @@
   </picture>
 </p>
 
-## Languages and Skills
+## Languages 
 <!-- Tool icons use PNG for reliable GitHub rendering. -->
 <p align="left">
   <img src="./assets/icons/bash.png" alt="bash" width="42" height="42" />
   <img src="./assets/icons/c.png" alt="c" width="42" height="42" />
   <img src="./assets/icons/python.png" alt="python" width="42" height="42" />
   <img src="./assets/icons/rust.png" alt="rust" width="42" height="42" />
+ 
+  ## Tools
   <img src="./assets/icons/vscode.png" alt="visual studio code" width="42" height="42" />
   <img src="./assets/icons/git.png" alt="git" width="42" height="42" />
   <img src="./assets/icons/github.png" alt="github" width="42" height="42" />
